@@ -1,0 +1,36 @@
+.container{
+    background-color:rgb(234, 239, 241);
+    margin: auto;
+    
+}
+.image{
+    background-color:aliceblue;
+    display:flex;
+    justify-content: space-around;
+    
+}
+img {
+    margin: auto;
+}
+image h3{
+    color: cornsilk;
+}
+.info p {
+ padding : 0px 0px 0px 500px;
+}
+.hobbies h2{
+    text-align: justify;
+}
+table tr td{
+    font-size: x-large;
+}
+table{
+    border: 1px solid black;
+}
+ol li {
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: pink;
+}
